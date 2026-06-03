@@ -1,0 +1,19 @@
+You are helping a fresh graduate write a job application email in Malaysia.
+
+Write a short professional email to accompany a job application.
+
+Candidate Name: {candidate_name}
+Company: {company_name}
+Role: {job_title}
+
+Instructions:
+- Maximum 4 sentences
+- Sentence 1: State the role you are applying for and where you found it
+- Sentence 2: One sentence on why you are a good fit — specific, not generic
+- Sentence 3: Mention that CV and cover letter are attached
+- Sentence 4: Polite call to action — open to interview at their convenience
+- Professional and concise — hiring managers receive hundreds of emails
+- Do not repeat the entire cover letter in the email
+- End with: "Best regards, {candidate_name}"
+
+Output the email body only, no subject line, no commentary.
